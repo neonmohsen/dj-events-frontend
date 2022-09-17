@@ -1,8 +1,8 @@
 // import FaExclamationTriangle from "react-icons";
 import Link from "next/link";
 import React from "react";
-import Layout from "../components/Layout";
-import styles from "../styles/404.module.css";
+import Layout from "@/components/Layout";
+import styles from "@/styles/404.module.css";
 import { BsExclamationTriangle } from "react-icons/bs";
 
 export default function NotFoundPage() {
